@@ -108,6 +108,7 @@ const TrackingPanel = () => {
     ];
 
     return (
+        
         <Box sx={{ padding: 2, overflowY: 'auto', height: '100vh' }}>
             <Toolbar variant="dense" sx={{ backgroundColor: '#f5f5f5' }}>
                 <Typography variant="h6" sx={{ flexGrow: 1 }}>
